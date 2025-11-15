@@ -1,0 +1,7 @@
+// este es un comentario
+int main() {
+    int x = 10;  // comentario al final
+    /* comentario
+       multilinea */
+    x = x + 1;
+}
